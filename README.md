@@ -1,4 +1,4 @@
-![logo]("https://github.com/Ishita2407/Ishita2407/blob/main/Banner.png")
+![logo](https://github.com/Ishita2407/Ishita2407/blob/main/Banner.png)
 <h1 align="center">Hey There👋, I'm Ishita</h1>
 <h3 align="center">A passionate Learner, AI-ML and Data Science Enthusiast </h3>
 
