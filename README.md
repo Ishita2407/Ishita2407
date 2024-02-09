@@ -1,4 +1,5 @@
-![logo](https://github.com/Ishita2407/Ishita2407/blob/main/Welcome.mp4)
+https://github.com/Ishita2407/Ishita2407/assets/91796142/bd847370-99e3-4126-8372-5da2b6d15e84
+
 <h1 align="center">Hey There👋, I'm Ishita</h1>
 <h3 align="center">A passionate Learner, AI-ML and Data Science Enthusiast </h3>
 
