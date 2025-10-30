@@ -1,4 +1,8 @@
-https://github.com/Ishita2407/Ishita2407/assets/91796142/bd847370-99e3-4126-8372-5da2b6d15e84
+
+
+
+https://github.com/user-attachments/assets/b17e04d6-f572-4b12-a040-74a5fddc91f2
+
 
 <h1 align="center">Hey There👋, I'm Ishita</h1>
 <h3 align="center">A passionate Learner, AI-ML and Data Science Enthusiast </h3>
